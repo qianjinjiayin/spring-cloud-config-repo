@@ -1,2 +1,6 @@
 info:
   profile: dev
+  
+levelA:
+  levelB:
+    levelC
